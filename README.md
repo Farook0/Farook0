@@ -1,3 +1,8 @@
+<!-- Banner GIF at the Top -->
+<p align="center">
+  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="coding banner" width="800">
+</p>
+
 <h1 align="center">Hi 👋, I'm Farooq Ayoub</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
