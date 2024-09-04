@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Farooq Ayoub</h1>
-<h3 align="center">A passionate AI/ML Engineer</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 <!-- Left-aligned Content and Right-aligned Image -->
 <div>
