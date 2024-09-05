@@ -1,7 +1,4 @@
-<!-- Banner GIF at the Top -->
-<p align="center">
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="coding banner" width="800">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Farooq Ayoub</h1>
 <h3 align="center">AI/ML Engineer</h3>
@@ -19,7 +16,7 @@
   </div>
 
   <p align="left">
-    - 🌱 I’m currently learning **LLM, RAG, MLOps** <br>
+    - 💻 I’m currently learning **LLM, RAG, MLOps** <br>
     - 📫 How to reach me **farooqayoub01@gmail.com** <br>
     - ⚡ Fun fact **😒**
   </p>
